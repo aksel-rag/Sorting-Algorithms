@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin: 0;
+  }
+  
+  #content{
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+  }
+  
+  #bigO{
+    position: absolute;
+    text-align: center;
+    left: 5%;
+    top:50%;
+    transform: translate(-5%,-50%);
+  }
